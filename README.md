@@ -20,7 +20,7 @@
     <a href="https://github.com/Nathan-Rgs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&count_private=true&include_all_commits=true&show_icons=false&theme=onedark&hide_border=false&show_owner=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=onedark&hide_border=false&&layout=compact"/>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan-rgs&" alt="nathan-rgs" />
+   <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=onedark&hide_border=false&&layout=compact](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Rgs&theme=dark)"/>
   </a>
 </div>
   
