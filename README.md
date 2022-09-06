@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **Vue, React, JavaScript and Html**
+- 💬 Ask me about **Vue, React, JavaScript, Html and Css**
 
 - 📫 How to reach me **nathan.rgs@gmail.com**
 
