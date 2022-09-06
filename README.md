@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Huawei - Facens**
 
-- 🌱 I’m currently learning **Another FrontEnd Frameworks**
+- 🌱 I’m currently increasing my **Web Development Skills**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
