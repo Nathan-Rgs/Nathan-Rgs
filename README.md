@@ -81,5 +81,5 @@
 <p align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical" />
   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=radical&hide_border=true" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=radical&hide_border=true&&layout=compact" />
 </p>
