@@ -63,8 +63,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=radical&hide_border=true&&layout=compact" />
+  <img width="48%" height="100px" src="https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
+  <img width="48%" height="70px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=radical&hide_border=true&&layout=compact" />
 </p>
 
 <p align="center">
