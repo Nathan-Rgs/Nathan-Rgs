@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical" />
 </p
   
 ## 🤖 Connect With Me
