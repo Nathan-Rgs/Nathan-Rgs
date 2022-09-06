@@ -63,9 +63,10 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" heigth="250" src="https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=radical&hide_border=true&&layout=compact" /> <br>
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical&&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical&&layout=compact" /> <br>
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=radical&hide_border=true&&layout=compact" /> 
+  
 </p>
   
 ## 🤖 Connect With Me
