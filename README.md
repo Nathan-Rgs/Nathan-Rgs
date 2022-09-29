@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 My personal resume: **nathan-rgs.github.io/myResume/**
+- 💬 <a href="https://nathan-rgs.github.io/myResume/">My personal resume</a>
 
 - 📫 How to reach me **nathan.rgs@gmail.com**
 
