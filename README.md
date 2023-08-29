@@ -55,7 +55,7 @@
 
 ## 📈 Stats
 
-<p align="center">
+<p align="left">
   <!-- 
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical&&layout=compact" /> <br> 
