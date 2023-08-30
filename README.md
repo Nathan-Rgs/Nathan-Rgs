@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nathan-Rgs&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-rgs" /> </p> -->
 
-- 🔭 I’m currently working at **Fraunhofer - IPT. Aachen, Germany**
+- 🔭 I’m currently working at **Fraunhofer IPT. Aachen, Germany**
 
 - 🌱 I’m currently increasing my **Software Development Skills**
 
