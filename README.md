@@ -70,4 +70,4 @@
 <!--  <a href="https://instagram.com/_nathan_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_rgs" height="30" width="40" /></a> -->
 </p>
 
-![snake animation](https://github.com/<Nathan-Rgs>/<Nathan-Rgs>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Nathan-Rgs/Nathan-Rgs/blob/output/github-contribution-grid-snake2.svg)
