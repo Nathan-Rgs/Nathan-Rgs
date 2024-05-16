@@ -2,13 +2,11 @@
   <h1 align="center">Hi 👋, I'm Nathan Roberto</h1>
   <h3 align="center">A really dedicated and hardworking FullStack developer</h3>
   
-  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nathan-Rgs&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-rgs" /> </p> -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nathan-Rgs&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-rgs" /> </p>
   
   - 🔭 I’m currently working at **Epiousion IT. Sorocaba, Brazil**
   
-  - 🌱 I’m currently increasing my **FullStack Skills**
-  
-  - 🦾 I’m looking to collaborate on **Software Development**
+  - 🦾 I’m looking to collaborate on **Software Development** and increasing my **FullStack Skills**
   
   - 🎓 <a href="https://nathan-rgs.github.io/my-resume/">**My personal resume**</a>
   
