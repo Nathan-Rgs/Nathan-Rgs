@@ -75,5 +75,3 @@
 <a href="https://www.linkedin.com/in/nathan-roberto-66423a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan roberto" height="30" width="40" /></a>
 <!--  <a href="https://instagram.com/_nathann_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathann_rgs" height="30" width="40" /></a> -->
 </p>
-
-[![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Rgs)](https://github.com/Nathan-Rgs/github-readme-stats)
