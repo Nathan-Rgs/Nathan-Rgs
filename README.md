@@ -5,11 +5,8 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nathan-Rgs&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-rgs" /> </p>
   
   - 🔭 I’m currently working at **Epiousion IT. Sorocaba, Brazil**
-  
   - 🦾 I’m looking to collaborate on **Software Development** and increasing my **FullStack Skills**
-  
   - 🎓 <a href="https://nathan-rgs.github.io/my-resume/">**My personal resume**</a>
-  
   - 📫 How to reach me **nathan.rgs@gmail.com**
   
   ## ⚡ Tech Stacks
@@ -45,8 +42,6 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  <!-- ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) -->
   
   ### 💻 Workspace
   
@@ -56,11 +51,21 @@
   ## 📈 Stats
   
   <p align="left">
-    <!-- 
-    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical&&layout=compact" /> <br> 
-    -->
-    <img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" /> 
+     <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Nathan-Rgs/Nathan-Rgs/output/github-contribution-grid-snake-dark.svg"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Nathan-Rgs/Nathan-Rgs/output/github-contribution-grid-snake.svg"
+        />
+        <img
+          alt="github contribution grid snake animation"
+          src="https://raw.githubusercontent.com/Nathan-Rgs/Nathan-Rgs/output/github-contribution-grid-snake.svg"
+        />
+    </picture>
+    <!-- <img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />  -->
   </p>
     
   ## 🤖 Connect With Me
@@ -68,19 +73,4 @@
   <a href="https://www.linkedin.com/in/nathan-roberto-66423a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan roberto" height="30" width="40" /></a>
   <!--  <a href="https://instagram.com/_nathan_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_rgs" height="30" width="40" /></a> -->
   </p>
-  
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nathan-Rgs/Nathan-Rgs/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nathan-Rgs/Nathan-Rgs/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Nathan-Rgs/Nathan-Rgs/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
 </p>
