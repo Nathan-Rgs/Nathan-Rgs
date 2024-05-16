@@ -62,12 +62,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical&&layout=compact" /> <br> 
   -->
   <img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" /> 
-  
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" /> 
-  
 </p>
   
 ## 🤖 Connect With Me
