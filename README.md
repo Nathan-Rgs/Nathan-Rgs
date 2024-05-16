@@ -57,13 +57,13 @@
 ## 📈 Stats
 
 <p align="left">
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nathan-Rgs&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nathan-Rgs&icon=0&color=0)](https://visitcount.itsvg.in)
+  <!-- 
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Rgs&hide_border=true&theme=radical&&layout=compact" /> <br> 
+  -->
+  <img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" /> 
+  
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rgs&show_icons=true&hide_border=true&theme=radical&&layout=compact" /> 
