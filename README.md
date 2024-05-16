@@ -50,7 +50,7 @@
   
   ## 📈 Stats
   
-  <p align="left">
+  <p>
      <picture>
         <source
           media="(prefers-color-scheme: dark)"
