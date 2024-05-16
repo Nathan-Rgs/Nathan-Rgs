@@ -68,7 +68,7 @@
     
   ## 🤖 Connect With Me
   <p align="left">
-  <a href="https://www.linkedin.com/in/nathan-roberto-66423a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan roberto" height="30" width="40" /></a>
-  <!--  <a href="https://instagram.com/_nathan_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_rgs" height="30" width="40" /></a> -->
+    <a href="https://www.linkedin.com/in/nathan-roberto-66423a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan roberto" height="30" width="40" /></a>
+    <a href="https://instagram.com/_nathan_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_rgs" height="30" width="40" /></a>
   </p>
 </p>
