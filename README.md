@@ -73,5 +73,5 @@
     <a href="https://instagram.com/_nathan_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_rgs" height="30" width="40" /></a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=footer&reversal=false&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false" />
 </p>
