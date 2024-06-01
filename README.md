@@ -1,7 +1,7 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20my%20Github!&section=header&reversal=false&textBg=false" />
-  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathan+Roberto" alt="Typing SVG" /> </h1>
-  <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0F7&random=false&width=435&lines=A+really+dedicated+and+hardworking+FullStack+developer" alt="Typing SVG" /> </h3>
+  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathan+Roberto!" alt="Typing SVG" /> </h1>
+  <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0F7&random=false&width=435&lines=A+really+dedicated+and+hardworking+FullStack+developer!" alt="Typing SVG" /> </h3>
   
   - 🔭 I’m currently working at **Epiousion IT. Sorocaba, Brazil**
   - 🦾 I’m looking to collaborate on **Software Development** and increasing my **FullStack Skills**
@@ -72,4 +72,6 @@
     <a href="https://www.linkedin.com/in/nathan-roberto-66423a18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan roberto" height="30" width="40" /></a>
     <a href="https://instagram.com/_nathan_rgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_rgs" height="30" width="40" /></a>
   </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=footer&reversal=false&textBg=false" />
 </p>
