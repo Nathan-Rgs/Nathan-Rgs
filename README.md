@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20my%20Github!&section=header&reversal=false&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&section=header&reversal=false&textBg=false" />
   <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nathan+Roberto!" alt="Typing SVG" /> </h1>
   <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=00C0F7&random=false&width=650&lines=A+really+dedicated+and+hardworking+FullStack+developer!" alt="Typing SVG" /> </h3>
   
