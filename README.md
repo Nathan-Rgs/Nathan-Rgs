@@ -5,7 +5,7 @@
   
   - 🔭 I’m currently working at **Epiousion IT. Sorocaba, Brazil**
   - 🦾 I’m looking to collaborate on **Software Development** and increasing my **FullStack Skills**
-  - 🎓 <a href="https://nathan-rgs.github.io/my-resume/">**My personal resume**</a>
+  - 🎓 <a href="https://my-portfolio-psi-liart-35.vercel.app">**My personal resume**</a>
   - 📫 How to reach me **nathan.rgs@gmail.com**
   
   ## ⚡ Tech Stacks
