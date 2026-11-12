@@ -119,10 +119,46 @@
   </picture>
 </p>
 
-## 🏆 Achievements
+## 📜 Certifications
 
-- 🥇 **1st place** — CanSat São Paulo state and regional championship
-- 🥈 **2nd place** — Maratona de Programação, Facens Code
+<p align="center">
+  <a href="https://www.credly.com/badges/28a4540b-7bc6-41b2-b1e3-29f8fbdd24c3">
+    <img width="140" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Certification</th>
+    <th>Issuer</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.credly.com/badges/28a4540b-7bc6-41b2-b1e3-29f8fbdd24c3"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" /></a> <b>AWS Certified Cloud Practitioner</b></td>
+    <td>Amazon Web Services</td>
+    <td>Jun 2026</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <b>FastAPI - The Complete Course (Advanced)</b></td>
+    <td>Udemy</td>
+    <td>Oct 2024</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <b>Docker: Creation and Containers Management</b></td>
+    <td>Alura</td>
+    <td>Jul 2024</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <b>JavaScript Developer</b></td>
+    <td>DIO</td>
+    <td>Sep 2022</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Multi--stack-5A29E4?style=flat-square&logo=stackshare&logoColor=white" /> <b>Multi-stack</b></td>
+    <td>TreinaWeb</td>
+    <td>Jun 2022</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7B2FF7,100:00C0F7&section=footer" alt="Footer" />
