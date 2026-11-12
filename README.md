@@ -134,6 +134,16 @@
     <th>Date</th>
   </tr>
   <tr>
+    <td><a href="https://verify.skilljar.com/c/rm9f3rauen2n"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></a> <b>Claude Code in Action</b></td>
+    <td>Anthropic</td>
+    <td>Nov 2026</td>
+  </tr>
+  <tr>
+    <td><a href="https://verify.skilljar.com/c/2pxjgdd5txdm"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></a> <b>Claude 101</b></td>
+    <td>Anthropic</td>
+    <td>Nov 2026</td>
+  </tr>
+  <tr>
     <td><a href="https://www.credly.com/badges/28a4540b-7bc6-41b2-b1e3-29f8fbdd24c3"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" /></a> <b>AWS Certified Cloud Practitioner</b></td>
     <td>Amazon Web Services</td>
     <td>Jun 2026</td>
