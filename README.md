@@ -134,6 +134,11 @@
     <th>Date</th>
   </tr>
   <tr>
+    <td><a href="https://certificates.mooc.fi/validate/o4wg8johcp"><img src="https://img.shields.io/badge/AI-4844A0?style=flat-square&logo=openaigym&logoColor=white" /></a> <b>Elements of AI</b> <sub>(2 ECTS)</sub></td>
+    <td>University of Helsinki</td>
+    <td>Nov 2026</td>
+  </tr>
+  <tr>
     <td><a href="https://verify.skilljar.com/c/rm9f3rauen2n"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></a> <b>Claude Code in Action</b></td>
     <td>Anthropic</td>
     <td>Nov 2026</td>
@@ -141,11 +146,6 @@
   <tr>
     <td><a href="https://verify.skilljar.com/c/2pxjgdd5txdm"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></a> <b>Claude 101</b></td>
     <td>Anthropic</td>
-    <td>Nov 2026</td>
-  </tr>
-  <tr>
-    <td><a href="https://certificates.mooc.fi/validate/o4wg8johcp"><img src="https://img.shields.io/badge/AI-4844A0?style=flat-square&logo=openaigym&logoColor=white" /></a> <b>Elements of AI</b> <sub>(2 ECTS)</sub></td>
-    <td>University of Helsinki · MinnaLearn</td>
     <td>Nov 2026</td>
   </tr>
   <tr>
