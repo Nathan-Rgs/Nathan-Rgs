@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C0F7,100:7B2FF7&text=Nathan%20Roberto&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20AWS&descAlignY=58&descSize=18&animation=fadeIn&section=header" alt="Nathan Roberto header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C0F7,100:7B2FF7&text=Nathan%20Roberto&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20JavaScript/TypeScript%20%E2%80%A2%20AWS&descAlignY=58&descSize=18&animation=fadeIn&section=header" alt="Nathan Roberto header" />
 </p>
 
 <p align="center">
@@ -141,6 +141,11 @@
   <tr>
     <td><a href="https://verify.skilljar.com/c/2pxjgdd5txdm"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></a> <b>Claude 101</b></td>
     <td>Anthropic</td>
+    <td>Nov 2026</td>
+  </tr>
+  <tr>
+    <td><a href="https://certificates.mooc.fi/validate/o4wg8johcp"><img src="https://img.shields.io/badge/AI-4844A0?style=flat-square&logo=openaigym&logoColor=white" /></a> <b>Elements of AI</b> <sub>(2 ECTS)</sub></td>
+    <td>University of Helsinki · MinnaLearn</td>
     <td>Nov 2026</td>
   </tr>
   <tr>
